@@ -1,4 +1,17 @@
                                                  FLUTTER
                                                 
  INTRODUCTION: Flutter is a mobile user interface framework for creating naitive apps for android and ios.we use Dart(one code based) programming language.
- what are the advantages of FLUTTER:
+ 
+ BASIC SETUP FOR FLUTTER:
+ 1) java jdk(from oracle ofiicial site)
+ 2)android studio
+ 3)flutter
+ 4)github
+ 
+ why do we use flutter?
+ 1)it is a single code based functionality
+ 2)it is a smooth and quick experience when runnuing responsive apps
+ 3)if u know basics of oops you can easily code 
+ 
+ 
+ please download the following requirements for further usage.
