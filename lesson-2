@@ -1,0 +1,15 @@
+welcome to the second lesson..
+hope all of you had downloaded the 
+you know that we are using an app software hence everthing in the screen is called as widgets.
+some of them are..:
+text widget(style,align....etc)
+button widgets(color,enable..etc)
+row widget
+column widget
+image widget
+
+Bascially all widgets are classes. As mentioned earlier we are going to use dart.
+#DART: it is an object oriented programming language that is to create beautiful moble apps.it is developed by google.
+for any further info about widgets..visit."https://flutter.dev/docs/development/ui/widgets-intro"
+
+THANK YOU.
