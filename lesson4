@@ -1,0 +1,44 @@
+LETS MOVE ON WITH DART FURTHER...
+WE WILL NOW DEAL WITH CLASSES..IN DART
+-->
+PROGRAM
+void main(){
+student s1 = student();
+print(s1.name);
+print(s1.age);
+s1.attend();
+}
+class student{
+int age =12;
+string name ="abc";
+void attend{
+print("attendence marked");
+}
+}
+??TASK : TRY CREATING 2 USERS AND INVOKE THE METHODS AND VARIABLE??
+
+
+NOW LETS DEAL WITH CONSTRUCTOR..
+WHAT IS A CONSTRUCTOR?.. A constructor is invoked when an object is created. constructor should have the same name as the class name..
+PROGRAM:
+
+void main(){
+student s1 = student();
+print(s1.name);
+print(s1.age);
+s1.attend();
+}
+class student{
+int age ;
+string name ;
+student(string name,int age){
+this.name=name;
+this.age=age;
+}//this is a consturctor
+void attend{
+print("attendence marked");
+}
+}
+
+//we can pass unique names and age.
+
