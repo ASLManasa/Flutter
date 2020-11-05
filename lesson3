@@ -1,0 +1,84 @@
+Welcome to lesson3
+
+WE ARE GOIING TO DISCUSS THE BASICS OF DART HERE!!
+DART IS A SINGLE MODULE BASED CODE USED FOR FLUTTER
+DART is a STATICALLY TYPED LANGUAGE(we cant cahnge the datatype of the variable in further program)
+BEFORE STARTING YOU HAVE TO USE AN IDE FOR DART YOU CAN USE THIS ONLINE IDE FOR NOW.."https://dartpad.dev/"
+LET'S START....
+-->VARIABLES
+  
+  *INTEGER
+  PROGRAM
+  void main()
+  {
+ int rollno=48;
+ print(rollno);
+ }
+ 
+ *STRING
+ PROGRAM
+ void main()
+ {
+string s ="Dart";
+print(s);
+ }
+
+*Boolean
+PROGRAM
+void main(){
+bool ishappy =true;
+print(ishappy);
+}
+
+**DYNAMIC IS A DATAYPE PRESENT IN DART THAT NEGATES THE RULE OF THE LANGUAGE
+PROGRAM
+void main(){
+dynamic name ="ram";
+name=90;
+print(name);
+}
+
+*Function with strings.
+PROGRAM:
+void main()
+{
+String s = name();
+print(s);
+}
+String name()
+{
+    return "Anshuman";
+}
+??Task: write the same program with integers??
+**The above program can be written as**
+void main()
+{
+String s = name();
+print(s);
+}
+String name() =>"Anshuman";
+
+
+
+NOW LETS US DO SOME INTRESTING....CODE..
+-->Using list ..
+PROGRAM
+void main()
+{
+list age =[34,56,78,24];
+print(age);
+}
+??TASK: TRY THE ABOVE PROGRAM WITH STRINGS??
+WE CAN ALSO ADD EXTRA ELEMENTS IN THE LIST...BY  USING THE COMMANDS..
+SYNATX: listname.add("to be added");
+ALSO WE CAN DELETE 
+Syntax:listname.remove("to be added");
+
+
+we can here have hetrogenous elements in the list ..to make the list of same..dataype we can use as..
+list<datatype>=[];
+
+
+
+
+
