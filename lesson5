@@ -1,0 +1,17 @@
+Analyse the basic code given there..
+as runApp() is used for running the code.. 
+build-> build the app
+
+try to figure out all the basic code structure when you get the basic code of an app.
+you can open the virtual device on the screen.
+
+** note : we have to write comma after writing every property.
+we can write heading on the home page:
+
+program :
+void main()=> runApp(APPPNAME(
+home:Text('Flutter App'),
+));
+
+//try this and observe the output
+
