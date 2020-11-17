@@ -1,0 +1,12 @@
+Lets start with ANDROID STUDIO
+Hope u have installed it...
+we are going to create an android virtual device(android emulator) to check our output
+steps:
+1. open the app you will find configure in the right bottom select AVD MANAGER option there.
+2.we have to choose a device . I choose nexas 6 here.->next
+3.we will choose the system image->pie(operation system)->next -> u can name-> emulated performance->graphics->harware(glsi)-> finish
+Your virtual device is installed.
+we will install some plugins..
+1)settings-> plugings->marketplace->Flutter(dart installed automatically)->yes->restart ide
+Then we can see flutter application written on the main screen ->click that->flutter application->next->next->finish
+Hurray we got the screen for Flutter app...
